@@ -1,4 +1,5 @@
 # Class Relationships visualizer
+> This is a tool that allows you to visualise the relationships between Java classes in a Java project.
 
 ## Guide
 1. Cloner le projet.

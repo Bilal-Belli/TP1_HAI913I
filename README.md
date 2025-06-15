@@ -1,4 +1,4 @@
-# TP1_HAI913I
+# Class Relationships visualizer
 
 ## Guide
 1. Cloner le projet.
